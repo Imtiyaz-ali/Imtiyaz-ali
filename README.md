@@ -58,9 +58,9 @@
 
 
 ### :fire: My Stats :
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Imtiyaz Ali&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Imtiyaz Ali&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Imtiyaz Ali&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Imtiyaz-ali&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Imtiyaz-ali&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Imtiyaz-ali&theme=dark)
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
