@@ -1,6 +1,5 @@
 <div align="center">
   <div align="center">
-  div align="center">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
